@@ -1,0 +1,22 @@
+# Understanding What Linux is
+## Detecting and Preparing hardware
+## Managing processes
+## Managing memory
+## Providing user interfaces
+## Controlling filesystems
+## Providing user acess and authentication
+## Offering administratie utilities
+### add users
+### manage disks
+### monitor the network
+### install sofwares
+### secute an manage your computer
+##Starting up services
+## programming tools
+
+# What can i do with
+## Clustering
+## Virtualization
+## Cloud computing
+## Real-time computing
+## Specialized storage
